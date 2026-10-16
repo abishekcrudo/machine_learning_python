@@ -2,3 +2,4 @@ import numpy
 pip install scipy
 import matplotlib.pyplot
 python -m pip install scikit-learn matplotlib
+from sklearn import linear_model
